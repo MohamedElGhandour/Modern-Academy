@@ -1,0 +1,33 @@
+header.lecture {
+    background-image: url('../img/beautiful-book-casual-1313809.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 350px;
+    min-width: 100%;
+    text-align: center;
+
+}
+
+header.lecture .bg-black {
+    background-color: rgba(0, 0, 0, 0.5);
+    min-height: 100%;
+    width: 100%;
+}
+
+header.lecture .primary-color,
+header.lecture .stepper li.active a .circle,
+header.lecture .stepper li.completed a .circle {
+    background-color:transparent !important;
+}
+
+.content-course {
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+.content-course .cyan {
+    background-color:#333d51 !important;
+}
